@@ -11,7 +11,7 @@
 
 ### Tech Stack
 
-- HTML5, PUG
+- HTML5
 - CSS, SASS/SCSS, Styled Components, Tailwind CSS, Material UI
 - JS(ES6+), TypeScript
 - React, Next
