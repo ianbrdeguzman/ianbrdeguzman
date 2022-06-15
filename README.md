@@ -1,23 +1,18 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on a Instagram Clone.
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on React apps.
-- 🤔 I’m looking for help with React Native.
-- 💬 Ask me about React.
-- 📫 How to reach me: [ianbrdeguzman@gmail.com](ianbrdeguzman@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend 90% of my time debugging and the other 10% writing bugs.
+An Industrial Engineer who fell in love with software development. Full Stack Developer, aspiring Mobile Developer, looking for full time remote position.
+
+Originally from the Philippines, lived in Sydney, Australia and currently based in Toronto, Canada. Moved across the globe to chase opportunities and pursue my passion.
 
 ### Tech Stack
 
 - HTML5
-- CSS, SASS/SCSS, Styled Components, Tailwind CSS, Material UI
-- JS(ES6+), TypeScript
-- React, Next
-- Redux
-- Node, Express
+- CSS modules, SASS/SCSS, Styled Components, Tailwind CSS, Material UI
+- JavaScript, TypeScript
+- React, Next, React Native
+- Redux, Redux Toolkit
+- Node, Express, Fastify, Nest.js (learning)
 - Firebase, MySQL, PostgreSQL, MongoDB
 - REST API, GraphQL
 - React Testing Library, Jest, Cypress
-- Git, Docker, AWS 
+- Git, Docker, AWS, Terraform
