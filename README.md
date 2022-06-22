@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-An Industrial Engineer who fell in love with software development. Full Stack Developer, aspiring Mobile Developer, looking for full time remote position. Originally from the Philippines, lived in Sydney, Australia and currently based in Toronto, Canada. Moved across the globe to chase opportunities and pursue my passion.
+An Industrial Engineer who fell in love with software development. Full Stack Developer, aspiring Mobile Developer, looking for full time remote position. 
+
+Originally from the Philippines, lived in Sydney, Australia and currently based in Toronto, Canada. Moved across the globe to chase opportunities and pursue my passion.
 
 ### Tech Stack
 
