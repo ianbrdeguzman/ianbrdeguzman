@@ -14,5 +14,5 @@ Originally from the Philippines, lived in Sydney, Australia and currently based 
 - Node, Express, Fastify, Nest.js (learning)
 - Firebase, MySQL, PostgreSQL, MongoDB
 - REST API, GraphQL
-- React Testing Library, Jest, Cypress
+- React Testing Library, Jest, Cypress, Storybook
 - Git, Docker, AWS, Terraform
