@@ -1,18 +1,18 @@
 ### Hello there 👋
 
-An Industrial Engineer who fell in love with software development. Full Stack Developer, aspiring Mobile Developer, looking for full time remote position. 
-
-Originally from the Philippines, lived in Sydney, Australia and currently based in Toronto, Canada. Moved across the globe to chase opportunities and pursue my passion.
+Ian is an Industrial Engineer who fell in love with software development. He just finished Bachelor's Degree in Computer Science while being a full-time Full Stack Software Developer and Mobile Developer (React Native).
 
 ### Tech Stack
 
 - HTML5
-- CSS modules, SASS/SCSS, Styled Components, Tailwind CSS, Material UI
+- CSS, SASS/SCSS, Styled Components, Tailwind CSS, Material UI
 - JavaScript, TypeScript
 - React, Next, React Native
-- Redux, Redux Toolkit
+- Redux, Redux Toolkit, Redux Observable
 - Node, Express, Fastify, Nest.js (learning)
-- Firebase, MySQL, PostgreSQL, MongoDB
+- Firebase, MySQL, PostgreSQL, MongoDB, SQLite
 - REST API, GraphQL
-- React Testing Library, Jest, Cypress, Storybook
-- Git, Docker, AWS, Terraform
+- React Testing Library, Enzyme, Jest, Storybook
+- Playwright, Cypress
+- Elasticsearch, OpenSearch
+- Git, Docker, AWS, Jenkins, Terraform
