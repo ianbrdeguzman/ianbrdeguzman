@@ -34,6 +34,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: white;
+  background-image: radial-gradient(gray 1px, transparent 0);
+  background-size: 3rem 3rem;
+  background-position: -1rem;
 }
 main {
   padding: 2rem;
@@ -64,9 +68,9 @@ p {
 }
 nav {
   display: flex;
+  gap: 1rem;
 }
 nav a {
-  padding: 1rem 0.5em;
   color: var(--black);
 }
 .sr-only {
