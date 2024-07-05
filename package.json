@@ -2,6 +2,7 @@
   "name": "ianbrdeguzman",
   "type": "module",
   "version": "0.0.1",
+  "engine": "20.15.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
