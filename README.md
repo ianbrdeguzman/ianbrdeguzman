@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Ian is an Industrial Engineer who fell in love with software development. He just finished Bachelor's Degree in Computer Science while being a full-time Full Stack Software Developer and Mobile Developer (React Native).
+Ian is an Industrial Engineer who fell in love with software development. He just finished Bachelor's Degree in Computer Science while being a full-time Full Stack Developer and Mobile Developer (React Native).
 
 ### Tech Stack
 
