@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-Ian is a proud father of one and an industrial engineer by training, he discovered his love for programming and decided to level up by snagging a computer science degree.
+A dedicated father and experienced software professional, Ian balances the responsibilities of parenthood with a passion for technology. Trained as an industrial engineer, he discovered a strong interest in programming and further developed his expertise by earning a degree in computer science.
+
 
 ### Tech Stack
 
