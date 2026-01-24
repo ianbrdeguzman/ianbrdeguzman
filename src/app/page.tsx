@@ -10,17 +10,19 @@ export default function Home() {
       <h1>Ian D. Guzman</h1>
       <main className={styles.main}>
         <p>
-          A proud dad juggling the joys of fatherhood while navigating the
-          intricate world of code. An industrial engineer by training, he
-          discovered his love for programming and decided to level up by
-          snagging a computer science degree.
+          A dedicated father and experienced software professional, Ian balances
+          the responsibilities of parenthood with a passion for technology.
+          Trained as an industrial engineer, he discovered a strong interest in
+          programming and further developed his expertise by earning a degree in
+          computer science.
         </p>
         <p>
-          With four years under his belt as a full stack developer and a knack
-          for mobile magic with React Native, he’s the guy who turns caffeine
-          into code and parenting into an art form. Whether he’s debugging
-          software or dodging toddler tantrums, Ian tackles it all with a smile
-          and maybe a dad joke or two!
+          With four years of experience as a full-stack developer, including a
+          specialization in mobile application development using React Native,
+          he brings a thoughtful and disciplined approach to building
+          high-quality software. Known for his problem-solving skills and
+          positive attitude, Ian approaches both technical challenges and life’s
+          demands with focus, adaptability, and a sense of balance.
         </p>
       </main>
       <footer className={styles.footer}>
